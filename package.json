@@ -1,0 +1,21 @@
+{
+  "name": "server-side-react",
+  "version": "1.0.0",
+  "description": "server side node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdbeng/server-side-react.git"
+  },
+  "keywords": [],
+  "author": "Serg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdbeng/server-side-react/issues"
+  },
+  "homepage": "https://github.com/sdbeng/server-side-react#readme"
+}
